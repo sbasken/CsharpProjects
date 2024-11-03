@@ -1,0 +1,14 @@
+/Users/sakibasken/Documents/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject
+/Users/sakibasken/Documents/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/Users/sakibasken/Documents/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/Users/sakibasken/Documents/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.dll
+/Users/sakibasken/Documents/CsharpProjects/TestProject/bin/Debug/net8.0/TestProject.pdb
+/Users/sakibasken/Documents/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakibasken/Documents/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/Users/sakibasken/Documents/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/Users/sakibasken/Documents/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/sakibasken/Documents/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.dll
+/Users/sakibasken/Documents/CsharpProjects/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/Users/sakibasken/Documents/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.pdb
+/Users/sakibasken/Documents/CsharpProjects/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/Users/sakibasken/Documents/CsharpProjects/TestProject/obj/Debug/net8.0/ref/TestProject.dll
